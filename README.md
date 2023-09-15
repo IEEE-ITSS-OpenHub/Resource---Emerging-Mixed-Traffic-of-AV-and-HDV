@@ -24,3 +24,68 @@ With all these gaps above, this project aims to provide an open-sourced online r
 
 ·Promote the resource repository in future IEEE ITSS conferences and events, e.g., ITSC and IV.
 
+
+Table A1. Selected Available online open-source datasets
+Dataset	Data Type
+and Volume	Relevant Tasks
+and Case Studies	Data Samples Screenshot
+Berkeley Deep Drive： BDD 100k
+Image & video with annotation;
+100K video clips & images,1.8TB	Perception,
+Semantic segmentation;
+Lane detection	 
+CULane
+Image (video) with annotation;
+133K images	Perception,
+Semantic segmentation;
+Lane detection	 
+ApolloScape Baidu Inc.
+Video with semantic annotation;
+>140K images (video frames)	Perception,
+Semantic segmentation;
+Lane detection	 
+
+TuSimple
+Image & video with annotation;
+Two image sets：7K and 5K	Perception,
+Semantic segmentation;
+Lane detection	 
+KAIST Multi-Spectral
+Video, LiDAR, GPS;
+10 videos	Perception,
+Semantic segmentation;
+Lane detection	 
+Belgium Traffic Sign Dataset
+Image (Traffic sign) with annotation	Perception,
+Object detection;	 
+JAAD York University
+Video with  annotation (bounding box, behavioral label);
+347 videos, 170GB	Perception,
+Object detection, Behavior analysis;	 
+UAH University of Alcalá
+Video with behavioral label, GPS, vehicle data;
+35 videos	Behavior analysis;	 
+Udacity self-driving-car
+Video, LiDAR, GPS, vehicle with annotation (bounding box);
+ 300GB	Perception,
+Object detection, Object tracking, End2End learning;
+Imitation learning	 
+LISA: Laboratory for Intelligent & Safe Automobiles
+Video (image) with annotation (vehicle and traffic sign);
+3 (vehicle) + several (traffic sign) videos 	Perception,
+Object detection;	 
+MIT DriveSeg: Dynamic Driving Scene Segmentation 
+Video (image) with annotation;
+5,000 (manual) + 20,100 (semi-auto) frames 	Perception,
+Object detection, Semantic segmentation;
+Imitation learning	 
+Audi Autonomous Driving Dataset (A2D2)
+Image(video), LiDAR, with Semantic and Point cloud Segmentation, 3D bounding;
+41,280 (image) + 
+ 12,499 (3D) + 390,000 (unlabeled sensor) frames	Perception,
+Object detection, Object tracking, End2End learning;
+Imitation learning	 
+
+
+
+
