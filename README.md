@@ -15,8 +15,12 @@ Lastly, there are already some empirical field tests carried out in the real wor
 With all these gaps above, this project aims to provide an open-sourced online resource repository website to push forward the data-driven, simulation-based, and empirical study on emerging mixed traffic. To be specific, the resource repository will:
 
 ·Arrange a collection of various datasets related to automated vehicles and mixed traffic research with summarized descriptions of the datasets’ application scenarios and quick-starting guidelines;
+
 ·Provide an integrated description of simulation platforms and tools and pinpoint their strengths and weaknesses together with the most suitable application cases;
+
 ·Summarize the evidence, lessons, and knowledge learned from past field tests worldwide with a list of relevant publications;
+
 ·Design a Wiki website with crow-editing functions making everyone can contribute to the editing with an approving mechanism;
+
 ·Promote the resource repository in future IEEE ITSS conferences and events, e.g., ITSC and IV.
 
