@@ -24,6 +24,6 @@ With all these gaps above, this project aims to provide an open-sourced online r
 
 ·Promote the resource repository in future IEEE ITSS conferences and events, e.g., ITSC and IV.
 
-Webiste at [https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/](https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/) 
-
+**Webiste at [https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/](https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/) 
+**
 # Table A1. Selected Available online open-source datasets
