@@ -30,3 +30,6 @@ With all these gaps above, this project aims to provide an open-sourced online r
 
 # Want to contribute
 If you want to contribute to this open repository please contact [Yongqi Dong](https://yongqidong.github.io/) by emailing yongqidong@berkeley.edu.  
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CfanLBpjvpK7RofYVRAoif1pNWR3ec40kD9TLJfIJYE&cl=ffffff&w=a"></script>
