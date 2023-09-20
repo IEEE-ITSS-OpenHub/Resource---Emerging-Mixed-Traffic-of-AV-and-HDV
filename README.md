@@ -1,6 +1,8 @@
 # Resource---Emerging-Mixed-Traffic-of-AV&HDV
 Online Resource Repository: Datasets, Simulation Platforms, and Empirical Research on Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles
 
+_This project is part of the [2023 WiE-ITS & YP-ITS Fellowship Program](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/). The project is developed by [Yongqi Dong](https://yongqidong.github.io/)._
+
 # Background
 Fully-automated vehicles (AVs) are expected to be beneficial to traffic safety and efficiency. Although steady development of higher levels of AVs is witnessed, their deployment will not happen overnight. There will be a transition period during which AVs with various automation levels will share the road with human drivers leading to a mixed traffic condition. 
 
