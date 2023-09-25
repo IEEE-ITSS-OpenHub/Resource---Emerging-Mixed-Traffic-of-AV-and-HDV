@@ -73,29 +73,29 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 [OpenCDA](https://github.com/ucla-mobility/OpenCDA#readme)  
 
 # Relevant Publications
-**_Publication regarding data processing_**
+**_Publication regarding data processing_**  
 Hu, X., Zheng, Z., Chen, D., Zhang, X. and Sun, J., 2022. Processing, assessing, and enhancing the Waymo autonomous vehicle open dataset for driving behavior research. Transportation Research Part C: Emerging Technologies, 134, p.103490. https://doi.org/10.1016/j.trc.2021.103490  
 Li, G., Jiao, Y., Knoop, V.L., Calvert, S.C. and van Lint, J.W.C., 2023. Large Car-following Data Based on Lyft level-5 Open Dataset: Following Autonomous Vehicles vs. Human-driven Vehicles. arXiv preprint arXiv:2305.18921.  
 Li, G., Jiao, Y., Calvert, S.C. and van Lint, J.W.C., 2023. A Comparative Conflict Resolution Dataset Derived from Argoverse-2: Scenarios with vs. without Autonomous Vehicles. arXiv preprint arXiv:2308.13839.  
 Xia, X., Meng, Z., Han, X., Li, H., Tsukiji, T., Xu, R., Zheng, Z. and Ma, J., 2023. An automated driving systems data acquisition and analytics platform. Transportation research part C: emerging technologies, 151, p.104120. https://doi.org/10.1016/j.trc.2023.104120  
 
-**_Publication regarding mixed traffic_**
-Andreotti, E., Boyraz, P. and Selpi, S., 2020. Mathematical definitions of scene and scenario for analysis of automated driving systems in mixed-traffic simulations. IEEE Transactions on Intelligent Vehicles, 6(2), pp.366-375.
-Ard, T., Dollar, R.A., Vahidi, A., Zhang, Y. and Karbowski, D., 2020. Microsimulation of energy and flow effects from optimal automated driving in mixed traffic. Transportation Research Part C: Emerging Technologies, 120, p.102806.
-Ard, T., Guo, L., Dollar, R.A., Fayazi, A., Goulet, N., Jia, Y., Ayalew, B. and Vahidi, A., 2021. Energy and flow effects of optimal automated driving in mixed traffic: Vehicle-in-the-loop experimental results. Transportation Research Part C: Emerging Technologies, 130, p.103168.
-Azam, M., Hassan, S.A. and Che Puan, O., 2022. Autonomous Vehicles in Mixed Traffic Conditions—A Bibliometric Analysis. Sustainability, 14(17), p.10743.
-Calvert, S.C. and van Arem, B., 2020. A generic multi-level framework for microscopic traffic simulation with automated vehicles in mixed traffic. Transportation Research Part C: Emerging Technologies, 110, pp.291-311.
-Chen, Z. and Park, B.B., 2022. Connected preceding vehicle identification for enabling cooperative automated driving in mixed traffic. Journal of transportation engineering, Part A: Systems, 148(5), p.04022013.
-Farah, H., Postigo, I., Reddy, N., Dong, Y., Rydergren, C., Raju, N. and Olstam, J., 2022. Modeling Automated Driving in Microscopic Traffic Simulations for Traffic Performance Evaluations: Aspects to Consider and State of the Practice. IEEE Transactions on Intelligent Transportation Systems.
-Jin, S., Sun, D.H., Zhao, M., Li, Y. and Chen, J., 2020. Modeling and stability analysis of mixed traffic with conventional and connected automated vehicles from cyber physical perspective. Physica A: Statistical Mechanics and its Applications, 551, p.124217.
-Klimke, M., Völz, B. and Buchholz, M., 2023. Automatic Intersection Management in Mixed Traffic Using Reinforcement Learning and Graph Neural Networks. arXiv preprint arXiv:2301.12717.
-Lee, S., Jeong, E., Oh, M. and Oh, C., 2019. Driving aggressiveness management policy to enhance the performance of mixed traffic conditions in automated driving environments. Transportation research part A: policy and practice, 121, pp.136-146.
-Mullakkal-Babu, F.A., Wang, M., van Arem, B. and Happee, R., 2020. Comparative safety assessment of automated driving strategies at highway merges in mixed traffic. IEEE transactions on intelligent transportation systems, 23(4), pp.3626-3639.
-Schwesinger, U., Versari, P., Broggi, A. and Siegwart, R., 2015. Vision-only fully automated driving in dynamic mixed-traffic scenarios. it-Information Technology, 57(4), pp.231-242.
-Stange, V., Kühn, M. and Vollrath, M., 2022. Manual drivers’ experience and driving behavior in repeated interactions with automated Level 3 vehicles in mixed traffic on the highway. Transportation research part F: traffic psychology and behaviour, 87, pp.426-443.
-Yao, S. and Friedrich, B., 2019, October. Managing connected and automated vehicles in mixed traffic by human-leading platooning strategy: A simulation study. In 2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 3224-3229). IEEE.
-Zhao, X., Liao, X., Wang, Z., Wu, G., Barth, M., Han, K. and Tiwari, P., 2022. Co-simulation platform for modeling and evaluating connected and automated vehicles and human behavior in mixed traffic. SAE International Journal of Connected and Automated Vehicles, 5(12-05-04-0025), pp.313-326.
-Ziehn, J.R., Baumann, M.V., Beyerer, J., Buck, H.S., Deml, B., Ehrhardt, S., Frese, C., Kleiser, D., Lauer, M., Roschani, M. and Ruf, M., 2023. Cooperative automated driving for bottleneck scenarios in mixed traffic. In 35th IEEE Intelligent Vehicles Symposium (IV 2023), Anchorage, AK, USA, June 4-7, 2023.
+**_Publication regarding mixed traffic_**  
+Andreotti, E., Boyraz, P. and Selpi, S., 2020. Mathematical definitions of scene and scenario for analysis of automated driving systems in mixed-traffic simulations. IEEE Transactions on Intelligent Vehicles, 6(2), pp.366-375.  
+Ard, T., Dollar, R.A., Vahidi, A., Zhang, Y. and Karbowski, D., 2020. Microsimulation of energy and flow effects from optimal automated driving in mixed traffic. Transportation Research Part C: Emerging Technologies, 120, p.102806.  
+Ard, T., Guo, L., Dollar, R.A., Fayazi, A., Goulet, N., Jia, Y., Ayalew, B. and Vahidi, A., 2021. Energy and flow effects of optimal automated driving in mixed traffic: Vehicle-in-the-loop experimental results. Transportation Research Part C: Emerging Technologies, 130, p.103168.  
+Azam, M., Hassan, S.A. and Che Puan, O., 2022. Autonomous Vehicles in Mixed Traffic Conditions—A Bibliometric Analysis. Sustainability, 14(17), p.10743.  
+Calvert, S.C. and van Arem, B., 2020. A generic multi-level framework for microscopic traffic simulation with automated vehicles in mixed traffic. Transportation Research Part C: Emerging Technologies, 110, pp.291-311.  
+Chen, Z. and Park, B.B., 2022. Connected preceding vehicle identification for enabling cooperative automated driving in mixed traffic. Journal of transportation engineering, Part A: Systems, 148(5), p.04022013.  
+Farah, H., Postigo, I., Reddy, N., Dong, Y., Rydergren, C., Raju, N. and Olstam, J., 2022. Modeling Automated Driving in Microscopic Traffic Simulations for Traffic Performance Evaluations: Aspects to Consider and State of the Practice. IEEE Transactions on Intelligent Transportation Systems.  
+Jin, S., Sun, D.H., Zhao, M., Li, Y. and Chen, J., 2020. Modeling and stability analysis of mixed traffic with conventional and connected automated vehicles from cyber physical perspective. Physica A: Statistical Mechanics and its Applications, 551, p.124217.  
+Klimke, M., Völz, B. and Buchholz, M., 2023. Automatic Intersection Management in Mixed Traffic Using Reinforcement Learning and Graph Neural Networks. arXiv preprint arXiv:2301.12717.  
+Lee, S., Jeong, E., Oh, M. and Oh, C., 2019. Driving aggressiveness management policy to enhance the performance of mixed traffic conditions in automated driving environments. Transportation research part A: policy and practice, 121, pp.136-146.  
+Mullakkal-Babu, F.A., Wang, M., van Arem, B. and Happee, R., 2020. Comparative safety assessment of automated driving strategies at highway merges in mixed traffic. IEEE transactions on intelligent transportation systems, 23(4), pp.3626-3639.  
+Schwesinger, U., Versari, P., Broggi, A. and Siegwart, R., 2015. Vision-only fully automated driving in dynamic mixed-traffic scenarios. it-Information Technology, 57(4), pp.231-242.  
+Stange, V., Kühn, M. and Vollrath, M., 2022. Manual drivers’ experience and driving behavior in repeated interactions with automated Level 3 vehicles in mixed traffic on the highway. Transportation research part F: traffic psychology and behaviour, 87, pp.426-443.  
+Yao, S. and Friedrich, B., 2019, October. Managing connected and automated vehicles in mixed traffic by human-leading platooning strategy: A simulation study. In 2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 3224-3229). IEEE.  
+Zhao, X., Liao, X., Wang, Z., Wu, G., Barth, M., Han, K. and Tiwari, P., 2022. Co-simulation platform for modeling and evaluating connected and automated vehicles and human behavior in mixed traffic. SAE International Journal of Connected and Automated Vehicles, 5(12-05-04-0025), pp.313-326.  
+Ziehn, J.R., Baumann, M.V., Beyerer, J., Buck, H.S., Deml, B., Ehrhardt, S., Frese, C., Kleiser, D., Lauer, M., Roschani, M. and Ruf, M., 2023. Cooperative automated driving for bottleneck scenarios in mixed traffic. In 35th IEEE Intelligent Vehicles Symposium (IV 2023), Anchorage, AK, USA, June 4-7, 2023.  
 
 
 **_Publication regarding social-aware driving in mixed traffic_**
