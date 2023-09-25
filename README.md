@@ -150,6 +150,12 @@ _**Empirical Field Tests and Naturalistic Driving Data**_
 [SHRP2 Naturalistic Driving Study](https://insight.shrp2nds.us/)
 
 
+# Current SOTA Practice in Real Life
+_Video Demonstrations_  
+[Cruise RoboTaxi Night Trip 1](https://youtu.be/Ux7TQ7epk-c)  
+[Cruise RoboTaxi Night Trip 2 (with corner case)](https://youtu.be/4AMXQWUqSMQ)   
+[Cruise RoboTaxi Daytime Trip 1](https://youtu.be/H1TzjoQglMU)   
+[Cruise RoboTaxi Daytime Trip 2](https://youtu.be/7s3o0yUI5o0?si=i7JGGJhVK_A5ceyX)   
 
 # Website
 
