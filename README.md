@@ -137,13 +137,15 @@ _* IEEE International Conference on Intelligent Transportation Systems (ITSC 202
 [Data-driven and Empirical Research for Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles](https://sites.google.com/view/itsc2023-mixed-traffic/)
 
 
-**_Online Survey_**
+**_Online Survey_**  
 [Towards Developing Socially Compliant Automated Vehicles - Survey](https://docs.google.com/forms/d/e/1FAIpQLScm4gG3zViXYi5-tfAtvnXJ_tNwiWjI7jAGdOoQU6K8cV-bWA/viewform)
 
-_**Empirical Field Tests and Naturalistic Driving Data**_
+
+_**Empirical Field Tests and Naturalistic Driving Data**_  
 [MegaVanderTest](https://its.berkeley.edu/news/circles-megavandertest-media-appearances)
 [OpenACC: OpenACC. An open database of car-following experiments to study the properties of commercial ACC systems](https://www.sciencedirect.com/science/article/pii/S0968090X21000772)
 [SHRP2 Naturalistic Driving Study](https://insight.shrp2nds.us/)
+
 
 
 # Website
