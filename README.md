@@ -74,10 +74,10 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 
 # Relevant Publications
 **_Publication regarding data processing_**
-Hu, X., Zheng, Z., Chen, D., Zhang, X. and Sun, J., 2022. Processing, assessing, and enhancing the Waymo autonomous vehicle open dataset for driving behavior research. Transportation Research Part C: Emerging Technologies, 134, p.103490. https://doi.org/10.1016/j.trc.2021.103490 
-Li, G., Jiao, Y., Knoop, V.L., Calvert, S.C. and van Lint, J.W.C., 2023. Large Car-following Data Based on Lyft level-5 Open Dataset: Following Autonomous Vehicles vs. Human-driven Vehicles. arXiv preprint arXiv:2305.18921.
-Li, G., Jiao, Y., Calvert, S.C. and van Lint, J.W.C., 2023. A Comparative Conflict Resolution Dataset Derived from Argoverse-2: Scenarios with vs. without Autonomous Vehicles. arXiv preprint arXiv:2308.13839.
-Xia, X., Meng, Z., Han, X., Li, H., Tsukiji, T., Xu, R., Zheng, Z. and Ma, J., 2023. An automated driving systems data acquisition and analytics platform. Transportation research part C: emerging technologies, 151, p.104120. https://doi.org/10.1016/j.trc.2023.104120 
+  Hu, X., Zheng, Z., Chen, D., Zhang, X. and Sun, J., 2022. Processing, assessing, and enhancing the Waymo autonomous vehicle open dataset for driving behavior research. Transportation Research Part C: Emerging Technologies, 134, p.103490. https://doi.org/10.1016/j.trc.2021.103490 
+  Li, G., Jiao, Y., Knoop, V.L., Calvert, S.C. and van Lint, J.W.C., 2023. Large Car-following Data Based on Lyft level-5 Open Dataset: Following Autonomous Vehicles vs. Human-driven Vehicles. arXiv preprint arXiv:2305.18921.
+  Li, G., Jiao, Y., Calvert, S.C. and van Lint, J.W.C., 2023. A Comparative Conflict Resolution Dataset Derived from Argoverse-2: Scenarios with vs. without Autonomous Vehicles. arXiv preprint arXiv:2308.13839.
+  Xia, X., Meng, Z., Han, X., Li, H., Tsukiji, T., Xu, R., Zheng, Z. and Ma, J., 2023. An automated driving systems data acquisition and analytics platform. Transportation research part C: emerging technologies, 151, p.104120. https://doi.org/10.1016/j.trc.2023.104120 
 
 **_Publication regarding mixed traffic_**
 Andreotti, E., Boyraz, P. and Selpi, S., 2020. Mathematical definitions of scene and scenario for analysis of automated driving systems in mixed-traffic simulations. IEEE Transactions on Intelligent Vehicles, 6(2), pp.366-375.
