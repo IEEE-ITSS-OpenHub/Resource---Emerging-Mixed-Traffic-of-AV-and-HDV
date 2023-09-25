@@ -28,7 +28,7 @@ With all these gaps above, this project aims to provide an open-sourced online r
 
 The resource repository will be promoted in future IEEE ITSS conferences and events, e.g., ITSC and IV.
 
-# Relevant datasets
+# Relevant Datasets
 [Berkeley Deep Drive: BDD 100k](https://bdd-data.berkeley.edu/)  
 [Waymo Open Dataset](https://waymo.com/open/)  
 [Lyft level-5 open dataset](https://woven.toyota/en/prediction-dataset)  
