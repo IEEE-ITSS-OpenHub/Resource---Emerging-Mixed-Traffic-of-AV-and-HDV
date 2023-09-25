@@ -61,6 +61,18 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 [Safety Pilot Model Deployment Data](https://catalog.data.gov/dataset/safety-pilot-model-deployment-data)  
 [INTERACTION](http://interaction-dataset.com/)  
 
+# Relevant Simulation Platforms
+[SUMO](https://sumo.dlr.de/docs/index.html)  
+[PTV Vissim](https://www.myptv.com/en-us/mobility-software/ptv-vissim)  
+[CARLA](https://carla.org/)  
+[SUMMIT](https://paperswithcode.com/dataset/summit)  
+[LGSVL Simulator](https://github.com/lgsvl/simulator-2019.05-obsolete)  
+[AirSim](https://microsoft.github.io/AirSim/)  
+[Deepdrive](https://deepdrive.io/)  
+[Highway-env](https://github.com/Farama-Foundation/HighwayEnv)  
+[OpenCDA](https://github.com/ucla-mobility/OpenCDA#readme)  
+
+
 
 
 # Website
