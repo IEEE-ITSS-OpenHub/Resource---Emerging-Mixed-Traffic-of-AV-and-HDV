@@ -30,35 +30,35 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 
 # Relevant datasets
 [Berkeley Deep Drive: BDD 100k](https://bdd-data.berkeley.edu/)  
-Waymo Open Dataset
-Lyft level-5 open dataset
-Honda Driving Datasets: HDD; H3D; HSD; HEV-I; HAD; TITAN
-D^2-City
-DBNet
-CitySim
-highD, inD, rounD, exiD
-KITTI
-nuScenes
-Argoverse 1 & 2
-CULane
-ApolloScape Baidu Inc.
-TuSimple
-KAIST Multi-Spectral
-KAIST Urban Dataset
-Belgium Traffic Sign Dataset
-CamVid
-JAAD York University
-UAH University of Alcalá
-Udacity self-driving-car
-LISA: Laboratory for Intelligent & Safe Automobiles
-MIT DriveSeg: Dynamic Driving Scene Segmentation 
-Audi Autonomous Driving Dataset (A2D2)
-Mapillary Vistas
-CADC: Canadian Adverse Driving Conditions Dataset
-Lidar Data of Washington DC
-Oxford RobotCar
-Safety Pilot Model Deployment Data
-INTERACTION
+[Waymo Open Dataset](https://waymo.com/open/)
+[Lyft level-5 open dataset](https://woven.toyota/en/prediction-dataset)
+[Honda Driving Datasets](https://openaccess.thecvf.com/content_cvpr_2018/html/Ramanishka_Toward_Driving_Scene_CVPR_2018_paper.html): [HDD](https://openaccess.thecvf.com/content_cvpr_2018/html/Ramanishka_Toward_Driving_Scene_CVPR_2018_paper.html); [H3D](https://openaccess.thecvf.com/content_cvpr_2018/html/Ramanishka_Toward_Driving_Scene_CVPR_2018_paper.html); [HSD](https://arxiv.org/abs/1905.12708); [HEV-I](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8794474&casa_token=7cV3u2F9ljQAAAAA:jKUoLX_oWokQ_6qu5sn43uepvpKSfJBz-w6Ha1XEPnCyo5TkVAO9GdUd28RLP_8av7U3ItIhMw&tag=1); [HAD](https://arxiv.org/abs/1911.06978); [TITAN](https://arxiv.org/abs/2003.13886)  
+[D^2-City](https://paperswithcode.com/dataset/d2city)  
+[DBNet](http://www.dbehavior.net/)  
+[CitySim](https://github.com/ozheng1993/UCF-SST-CitySim-Dataset)  
+[highD](https://www.highd-dataset.com/), [inD](https://www.ind-dataset.com/), [rounD](https://www.round-dataset.com/), [exiD](https://www.exid-dataset.com/)  
+[KITTI](https://www.cvlibs.net/datasets/kitti/)  
+[nuScenes](https://www.nuscenes.org/nuscenes)  
+[Argoverse 1 & 2](https://www.argoverse.org/index.html)  
+[CULane](https://xingangpan.github.io/projects/CULane.html)  
+[ApolloScape Baidu Inc.](http://apolloscape.auto/scene.html)  
+[TuSimple](https://github.com/TuSimple/tusimple-benchmark/wiki)  
+[KAIST Multi-Spectral](https://sites.google.com/view/multispectral/)  
+[KAIST Urban Dataset](https://sites.google.com/view/complex-urban-dataset)  
+[Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)  
+[CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)  
+[JAAD York University](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)  
+[UAH University of Alcalá](http://www.robesafe.uah.es/personal/eduardo.romera/uah-driveset/)  
+[Udacity self-driving-car](https://github.com/udacity/self-driving-car)  
+[LISA: Laboratory for Intelligent & Safe Automobiles](http://cvrr.ucsd.edu/LISA/datasets.html)  
+[MIT DriveSeg: Dynamic Driving Scene Segmentation](https://agelab.mit.edu/driveseg)  
+[Audi Autonomous Driving Dataset (A2D2)](https://www.a2d2.audi/a2d2/en.html)  
+[Mapillary Vistas](https://www.mapillary.com/dataset/vistas?pKey=1697734990430617)  
+[CADC: Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/)  
+[Lidar Data of Washington DC](https://registry.opendata.aws/dc-lidar/)  
+[Oxford RobotCar](http://robotcar-dataset.robots.ox.ac.uk/)  
+[Safety Pilot Model Deployment Data](https://catalog.data.gov/dataset/safety-pilot-model-deployment-data)  
+[INTERACTION](http://interaction-dataset.com/)  
 
 
 
