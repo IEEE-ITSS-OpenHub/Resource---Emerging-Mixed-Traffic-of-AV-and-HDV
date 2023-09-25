@@ -1,4 +1,6 @@
 # Resource---Emerging-Mixed-Traffic-of-AV&HDV
+![Open Resources](https://img.shields.io/badge/Awesome-Resources-green)
+ ![Version](https://img.shields.io/badge/Version-2.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.08-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-mixed--traffic-green.svg?logo=github)
 Online Resource Repository: Datasets, Simulation Platforms, and Relevant Publications on Emerging Mixed Traffic of Automated Vehicles and Human-driven Vehicles
 
 **Project Website**: [https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/](https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/) 
