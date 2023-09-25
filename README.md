@@ -5,7 +5,7 @@ Online Resource Repository: Datasets, Simulation Platforms, and Relevant Publica
 
 _This project is part of the [2023 WiE-ITS & YP-ITS Fellowship Program](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/). The project is developed by [Yongqi Dong](https://yongqidong.github.io/)._
 
-# Background
+# Background & Aims
 Fully-automated vehicles (AVs) are expected to be beneficial to traffic safety and efficiency. Although steady development of higher levels of AVs is witnessed, their deployment will not happen overnight. There will be a transition period during which AVs with various automation levels will share the road with human drivers leading to a mixed traffic condition. 
 
 Data-driven, simulation-based, and empirical research are considered critical for understanding the dynamics of mixed traffic flow, interactive behaviors of Automated Vehicles (AVs) and human-driven vehicles (HDVs), as well as analyzing and evaluating the impact of AVs on traffic safety and efficiency. 
@@ -27,6 +27,40 @@ With all these gaps above, this project aims to provide an open-sourced online r
 ·Designs a Wiki website with crow-editing functions making everyone can contribute to the editing with an approving mechanism;
 
 The resource repository will be promoted in future IEEE ITSS conferences and events, e.g., ITSC and IV.
+
+# Relevant datasets
+[Berkeley Deep Drive: BDD 100k](https://bdd-data.berkeley.edu/)
+Waymo Open Dataset
+Lyft level-5 open dataset
+Honda Driving Datasets: HDD; H3D; HSD; HEV-I; HAD; TITAN
+D^2-City
+DBNet
+CitySim
+highD, inD, rounD, exiD
+KITTI
+nuScenes
+Argoverse 1 & 2
+CULane
+ApolloScape Baidu Inc.
+TuSimple
+KAIST Multi-Spectral
+KAIST Urban Dataset
+Belgium Traffic Sign Dataset
+CamVid
+JAAD York University
+UAH University of Alcalá
+Udacity self-driving-car
+LISA: Laboratory for Intelligent & Safe Automobiles
+MIT DriveSeg: Dynamic Driving Scene Segmentation 
+Audi Autonomous Driving Dataset (A2D2)
+Mapillary Vistas
+CADC: Canadian Adverse Driving Conditions Dataset
+Lidar Data of Washington DC
+Oxford RobotCar
+Safety Pilot Model Deployment Data
+INTERACTION
+
+
 
 # Website
 
