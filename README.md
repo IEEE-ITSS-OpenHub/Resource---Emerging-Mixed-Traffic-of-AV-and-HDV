@@ -57,6 +57,7 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 [CADC: Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/)  
 [Lidar Data of Washington DC](https://registry.opendata.aws/dc-lidar/)  
 [Oxford RobotCar](http://robotcar-dataset.robots.ox.ac.uk/)  
+[V2V4Real](https://mobility-lab.seas.ucla.edu/v2v4real/)  
 [Safety Pilot Model Deployment Data](https://catalog.data.gov/dataset/safety-pilot-model-deployment-data)  
 [INTERACTION](http://interaction-dataset.com/)  
 
