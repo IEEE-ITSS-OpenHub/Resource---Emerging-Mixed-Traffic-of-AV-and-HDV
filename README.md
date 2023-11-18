@@ -163,4 +163,4 @@ _Video Demonstrations_
 **Website** at [https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/](https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/) 
 
 # Want to contribute
-If you want to contribute to this open repository or want to join the [online group] (https://groups.google.com/g/emerging-mixed-traffic)([https://groups.google.com/g/emerging-mixed-traffic](https://groups.google.com/g/emerging-mixed-traffic)) of this research community, please contact [Yongqi Dong](https://yongqidong.github.io/) by emailing Y.Dong-4@tudelft.nl.  
+If you want to contribute to this open repository or want to join the [online group](https://groups.google.com/g/emerging-mixed-traffic) ([https://groups.google.com/g/emerging-mixed-traffic](https://groups.google.com/g/emerging-mixed-traffic)) of this research community, please contact [Yongqi Dong](https://yongqidong.github.io/) by emailing Y.Dong-4@tudelft.nl.  
