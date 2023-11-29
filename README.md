@@ -42,6 +42,8 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 [highD](https://www.highd-dataset.com/), [inD](https://www.ind-dataset.com/), [rounD](https://www.round-dataset.com/), [exiD](https://www.exid-dataset.com/)  
 [KITTI](https://www.cvlibs.net/datasets/kitti/)  
 [nuScenes](https://www.nuscenes.org/nuscenes)  
+[nuPlan](https://www.nuscenes.org/nuplan)  
+[nuReality](https://www.nureality.org/)  
 [Argoverse 1 & 2](https://www.argoverse.org/index.html)  
 [CULane](https://xingangpan.github.io/projects/CULane.html)  
 [ApolloScape Baidu Inc.](http://apolloscape.auto/scene.html)  
@@ -73,6 +75,8 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 [AirSim](https://microsoft.github.io/AirSim/)  
 [Deepdrive](https://deepdrive.io/)  
 [MetaDrive](https://github.com/metadriverse/metadrive)  
+[Waymax](https://waymo.com/research/waymax/)
+[CommonRoad](https://commonroad.in.tum.de/)
 [Highway-env](https://github.com/Farama-Foundation/HighwayEnv)  
 [OpenCDA](https://github.com/ucla-mobility/OpenCDA#readme)  
 
