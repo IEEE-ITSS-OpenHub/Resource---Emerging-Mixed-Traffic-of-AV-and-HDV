@@ -75,8 +75,8 @@ The resource repository will be promoted in future IEEE ITSS conferences and eve
 [AirSim](https://microsoft.github.io/AirSim/)  
 [Deepdrive](https://deepdrive.io/)  
 [MetaDrive](https://github.com/metadriverse/metadrive)  
-[Waymax](https://waymo.com/research/waymax/)
-[CommonRoad](https://commonroad.in.tum.de/)
+[Waymax](https://waymo.com/research/waymax/)  
+[CommonRoad](https://commonroad.in.tum.de/)  
 [Highway-env](https://github.com/Farama-Foundation/HighwayEnv)  
 [OpenCDA](https://github.com/ucla-mobility/OpenCDA#readme)  
 
