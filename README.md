@@ -6,7 +6,7 @@ Online Resource Repository: Datasets, Simulation Platforms, and Relevant Publica
 # Project Website  
 [https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/](https://qiqiqi.gitbook.io/resource-for-emerging-mixed-traffic-of-av-and-hdv/) 
 
-_This project is supported by the TAB Committee on Standards Seed Funding under project **R11P21**, and is part of the [2023 WiE-ITS & YP-ITS Fellowship Program](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/). The project is developed by [Yongqi Dong](https://yongqidong.github.io/) and [Saeed Rahmani](https://www.tudelft.nl/en/staff/s.rahmani/?cHash=db0aa065994a1676a2ef2132b44f7a26).
+_This project is supported by the TAB Committee on Standards Seed Funding under project **R11P21**, and is part of the [2023 WiE-ITS & YP-ITS Fellowship Program](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/). The project is developed by [Yongqi Dong](https://yongqidong.github.io/) and [Saeed Rahmani](https://www.tudelft.nl/en/staff/s.rahmani/?cHash=db0aa065994a1676a2ef2132b44f7a26)_.
 
 # Background & Aims
 Fully-automated vehicles (AVs) are expected to be beneficial to traffic safety and efficiency. Although steady development of higher levels of AVs is witnessed, their deployment will not happen overnight. There will be a transition period during which AVs with various automation levels will share the road with human drivers leading to a mixed traffic condition. 
